@@ -5,6 +5,8 @@
 ## Install all dependencies at once: 
 pip install dash dash-bootstrap-components dash-core-components dash-html-components plotly pandas
 
+
+
 ### To use this dashboard you must follow these steps
 #### Step 1:   Clone this repository
 #### Step 2:   Copy and paste the path of the CSV file provided in this repository to load your data. (There are 2 files here, use the .CSV file)
